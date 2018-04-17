@@ -1,3 +1,6 @@
+def ac():
+  print("Modul Tuple Bilangan Bulat")
+
 tupA= (1,2,3,4)#Menampilkan 4 bilangan bulat positif pertama
 print ("menampilkan tupA :",tupA)
 tupB= (5,6,7,8)#Menampilkan 4 bilangan bulat positif berikutnya
