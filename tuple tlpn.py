@@ -1,3 +1,5 @@
+def af():
+  print("Modul Tuple Nomor Tlp")
 A={'Nama1':'Jane Doe', 'Nama2':'jhon smith', 'Nama3':'Bob stone', 'telp1':'+27 555 5379', 'telp2':'+27 555 6254', 'telp3':'+27 555 5689'}
 print ('=========================================')
 print ('  Nama              |    Telephone Number       ')
