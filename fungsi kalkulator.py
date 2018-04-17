@@ -1,3 +1,6 @@
+def ab():
+    print("Modul Fungsi Kalkulator")
+
 print ("______KALKULATOR_________");
 def kalkulator ():
     def tambah():
