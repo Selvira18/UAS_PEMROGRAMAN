@@ -1,3 +1,6 @@
+def as():
+    print("Modul Nilai Mahasiswa")
+    
 NAMA= input("Masukan NAMA         :")
 UTS = int(input("Masukan Nilai UTS    :"))
 UAS= int(input("Masukan Nilai UAS     :"))
