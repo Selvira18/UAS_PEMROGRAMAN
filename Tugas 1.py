@@ -1,4 +1,5 @@
-
+def nm():
+    print("Modul List Nilai Mahasiswa")
 
 nm = []
 n = []
